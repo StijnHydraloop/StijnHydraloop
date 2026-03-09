@@ -2,7 +2,7 @@
 
 ## Stijn here, currently working as a full-stack software engineer at Hydraloop Systems
 
-Currently at Hydraloop, I’m working on expanding the Hydraloop Device Manager, an IoT platform that connects all Hydraloop devices.
+At Hydraloop I’m working on expanding the Hydraloop Device Manager, an IoT platform that connects all Hydraloop devices, the Hydraloop smartphone app and more.
 
 <p align="left">
 
